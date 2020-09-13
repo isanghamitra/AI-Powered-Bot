@@ -1,1 +1,1 @@
-create chatbots that can carry a conversation with your customers to increase sales, assist your website visitors with questions they may have, provide technical support or do whatever else your imagination inspires you to do. By the time you finish this course, you will be able to rightfully call yourself a chatbot builder.
+create chatbots that can carry a conversation with your customers to increase sales, assist your website visitors with questions they may have, provide technical support or do whatever else your imagination inspires you to do.
